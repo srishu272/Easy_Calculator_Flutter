@@ -1,6 +1,7 @@
 # easy_calculator_app
 
 A new Flutter project.
+This flutter project is an easy and simple calculator for beginners.
 
 ## Getting Started
 
